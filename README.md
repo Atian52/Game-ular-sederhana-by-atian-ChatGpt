@@ -1,1 +1,1 @@
-# Game-ular-sederhana-by-atian-ChatGpt
+# Game-ular-sederhana-by-atian & ChatGpt
